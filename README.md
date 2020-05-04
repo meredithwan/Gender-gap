@@ -6,3 +6,5 @@ The do file contains the codes that can be used to replicate my analysis.
 The dta file is the processed dataset that I used in my analysis.
 
 More details on my findings and empirical strategy can be found on my article published on Medium.
+
+Original dataset was obtained from the National Science Foundation's website: https://ncsesdata.nsf.gov/datadownload/?#
